@@ -2,13 +2,12 @@
 🎓 B.Tech Undergraduate at **NIT Raipur**  
 💻 Aspiring **Software Development Engineer (SDE)**  
 🚀 Passionate about problem solving, scalable systems, and applied AI  
----
 ## 🧠 About Me
 - Strong foundation in **Data Structures & Algorithms**
 - Experience with **backend development, ML, and system-oriented projects**
 - Contributor at **GirlScript Summer of Code (GSSoC 2024)**
 - Actively preparing for **SDE roles**
----
+
 ## 🛠️ My Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
@@ -24,18 +23,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![REST](https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge)
 
----
-### 🧩 Core Computer Science                           ### ⚙️ Backend & APIs                         ### 🤖 Machine Learning
-- Data Structures & Algorithms                          - Authentication & Authorization              - Supervised & Unsupervised Learning  
-- Object-Oriented Programming (OOP)                     - API Design & Integration                    - Neural Networks  
-- DBMS                                                                                                - TensorFlow, PyTorch, Scikit-learn
-- Operating Systems  
-- Computer Networks  
-- Basic System Design  
----
-
 ## 📫 Connect With Me
 - 💼 LinkedIn: https://www.linkedin.com/in/aishwar-bhatnagar-5bbb30287/
 - 📧 Email: abhatnagar010.btech2023@me.nitrr.ac.in
----
-⭐ *Always learning, building, and improving.*
