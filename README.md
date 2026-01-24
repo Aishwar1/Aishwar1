@@ -1,10 +1,8 @@
 # 👋 Hi, I'm Aishwar Bhatnagar
-
 🎓 B.Tech Undergraduate at **NIT Raipur**  
 💻 Aspiring **Software Development Engineer (SDE)**  
 🚀 Passionate about problem solving, scalable systems, and applied AI  
 ---
-
 ## 🧠 About Me
 - Strong foundation in **Data Structures & Algorithms**
 - Experience with **backend development, ML, and system-oriented projects**
@@ -12,8 +10,6 @@
 - Actively preparing for **SDE roles**
 ---
 ## 🛠️ My Tech Stack
-
-### 🧑‍💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
@@ -29,26 +25,17 @@
 ![REST](https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge)
 
 ---
-### 🧩 Core Computer Science
-- Data Structures & Algorithms  
-- Object-Oriented Programming (OOP)  
-- DBMS  
+### 🧩 Core Computer Science                           ### ⚙️ Backend & APIs                         ### 🤖 Machine Learning
+- Data Structures & Algorithms                          - Authentication & Authorization              - Supervised & Unsupervised Learning  
+- Object-Oriented Programming (OOP)                     - API Design & Integration                    - Neural Networks  
+- DBMS                                                                                                - TensorFlow, PyTorch, Scikit-learn
 - Operating Systems  
 - Computer Networks  
 - Basic System Design  
 ---
-### ⚙️ Backend & APIs
-- Authentication & Authorization  
-- API Design & Integration  
----
-### 🤖 Machine Learning
-- Supervised & Unsupervised Learning  
-- Neural Networks  
-- TensorFlow, PyTorch, Scikit-learn
 
 ## 📫 Connect With Me
 - 💼 LinkedIn: https://www.linkedin.com/in/aishwar-bhatnagar-5bbb30287/
 - 📧 Email: abhatnagar010.btech2023@me.nitrr.ac.in
-
 ---
 ⭐ *Always learning, building, and improving.*
