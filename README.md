@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Aishwar Bhatnagar
+Hi, I'm Aishwar Bhatnagar
 🎓 B.Tech Undergraduate at **NIT Raipur**  
 💻 Aspiring **Software Development Engineer (SDE)**  
 🚀 Passionate about problem solving, scalable systems, and applied AI  
