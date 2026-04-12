@@ -1,4 +1,4 @@
-# Hi, I'm Aishwar Bhatnagar 👨‍💻
+#                                                             Hi, I'm Aishwar Bhatnagar
 
 🎓 B.Tech Undergraduate at NIT Raipur  
 💻 Aspiring Software Development Engineer (SDE)  
@@ -18,51 +18,10 @@
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
-`Python` `C++` `JavaScript` `TypeScript` `SQL`
-
-### ⚙️ Backend & Systems
-`Node.js` `Express.js` `REST APIs` `JWT Auth` `System Design`
-
-### 🎨 Frontend
-`React.js` `Next.js` `HTML` `Tailwind CSS`
-
-### 🗄️ Databases
-`MongoDB` `MySQL`
-
-### ☁️ DevOps & Cloud
-`AWS (EC2, S3)` `Docker` `CI/CD`
-
-### 🤖 Machine Learning
-`Scikit-learn` `TensorFlow` `PyTorch` `CNN` `NLP` `Transformers`
 
 ---
 
-## 🚀 Projects
 
-### 🔹 CNN Feature Visualization Tool
-- Visualized deep learning models (VGG16, ResNet, Inception)
-- Processed **1000+ feature channels in <40ms**
-- Built interactive UI for real-time analysis
-- Achieved **85% model performance tracking**
-
----
-
-### 🔹 QuickStay – AI Hotel Booking Platform
-- Reduced decision time by **30%**
-- Built scalable APIs (<200ms latency, 100+ users)
-- Integrated **Stripe payments (99% reliability)**
-- Deployed on Vercel for global access
-
----
-
-### 🔹 Search Autocomplete System (Google-like)
-- NLP-based prediction system with **93% accuracy**
-- Implemented **LSTM/Transformer models**
-- Reduced irrelevant suggestions by **35%**
-- Designed scalable low-latency backend
-
----
 
 ## 🏆 Achievements
 
