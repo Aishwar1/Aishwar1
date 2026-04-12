@@ -54,18 +54,6 @@
   <img src="https://streak-stats.demolab.com/?user=Aishwar1&theme=tokyonight" />
 </p>
 
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aishwar1&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aishwar1&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Aishwar1&theme=tokyonight" />
-</p>
-
 ## 🌐 Connect With Me
 
 - 🔗 LinkedIn: https://www.linkedin.com/in/aishwar-bhatnagar-5bbb30287/
