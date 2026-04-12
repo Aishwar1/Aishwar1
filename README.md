@@ -1,28 +1,101 @@
-Hi, I'm Aishwar Bhatnagar
-🎓 B.Tech Undergraduate at **NIT Raipur**  
-💻 Aspiring **Software Development Engineer (SDE)**  
-🚀 Passionate about problem solving, scalable systems, and applied AI  
+# Hi, I'm Aishwar Bhatnagar 👨‍💻
+
+🎓 B.Tech Undergraduate at NIT Raipur  
+💻 Aspiring Software Development Engineer (SDE)  
+🚀 Passionate about scalable systems, backend engineering, and applied AI  
+
+---
+
 ## 🧠 About Me
-- Strong foundation in **Data Structures & Algorithms**
-- Experience with **backend development, ML, and system-oriented projects**
+
+- Strong foundation in **Data Structures & Algorithms (500+ problems solved)**
+- Experience in **Backend Development, Machine Learning & System Design**
 - Contributor at **GirlScript Summer of Code (GSSoC 2024)**
-- Actively preparing for **SDE roles**
+- Actively preparing for **SDE roles & internships**
+- Interested in **AI systems + real-world scalable products**
 
-## 🛠️ My Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![REST](https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge)
+---
 
-## 📫 Connect With Me
-- 💼 LinkedIn: https://www.linkedin.com/in/aishwar-bhatnagar-5bbb30287/
+## 🛠️ Tech Stack
+
+### 💻 Languages
+`Python` `C++` `JavaScript` `TypeScript` `SQL`
+
+### ⚙️ Backend & Systems
+`Node.js` `Express.js` `REST APIs` `JWT Auth` `System Design`
+
+### 🎨 Frontend
+`React.js` `Next.js` `HTML` `Tailwind CSS`
+
+### 🗄️ Databases
+`MongoDB` `MySQL`
+
+### ☁️ DevOps & Cloud
+`AWS (EC2, S3)` `Docker` `CI/CD`
+
+### 🤖 Machine Learning
+`Scikit-learn` `TensorFlow` `PyTorch` `CNN` `NLP` `Transformers`
+
+---
+
+## 🚀 Projects
+
+### 🔹 CNN Feature Visualization Tool
+- Visualized deep learning models (VGG16, ResNet, Inception)
+- Processed **1000+ feature channels in <40ms**
+- Built interactive UI for real-time analysis
+- Achieved **85% model performance tracking**
+
+---
+
+### 🔹 QuickStay – AI Hotel Booking Platform
+- Reduced decision time by **30%**
+- Built scalable APIs (<200ms latency, 100+ users)
+- Integrated **Stripe payments (99% reliability)**
+- Deployed on Vercel for global access
+
+---
+
+### 🔹 Search Autocomplete System (Google-like)
+- NLP-based prediction system with **93% accuracy**
+- Implemented **LSTM/Transformer models**
+- Reduced irrelevant suggestions by **35%**
+- Designed scalable low-latency backend
+
+---
+
+## 🏆 Achievements
+
+- 🥈 Runner-Up at **CodeUtsav 8.0 (ML Domain)** – 77.59% accuracy  
+- 💯 Solved **500+ DSA problems** (LeetCode, InterviewBit)  
+- 📊 Worked on **60k+ image dataset (30GB)**  
+- 🏅 96.41 percentile in **JEE Mains (Top 4%)**  
+- 📜 Completed **AI/ML Program (Skolar, Dubai)**  
+- 🔥 Completed **100 Days of Code**
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aishwar1&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aishwar1&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Aishwar1&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+- 🔗 LinkedIn: https://www.linkedin.com/in/aishwar-bhatnagar-5bbb30287/
 - 📧 Email: abhatnagar010.btech2023@me.nitrr.ac.in
+- 💻 GitHub: https://github.com/Aishwar1
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy building systems that **actually solve real-world problems** — not just projects for resume.
