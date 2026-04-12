@@ -1,5 +1,5 @@
-#  Hi, I'm Aishwar Bhatnagar
-<h1 align="center">Hey Everyone! 👋, I'm Aishwar Bhatnagar</h1>
+<h1 align="center">Hi, I'm Aishwar Bhatnagar</h1>
+
 🎓 B.Tech Undergraduate at NIT Raipur  
 💻 Aspiring Software Development Engineer (SDE)  
 🚀 Passionate about scalable systems, backend engineering, and applied AI
