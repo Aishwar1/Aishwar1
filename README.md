@@ -1,27 +1,8 @@
-#                                                             Hi, I'm Aishwar Bhatnagar
+#  Hi, I'm Aishwar Bhatnagar
 
 🎓 B.Tech Undergraduate at NIT Raipur  
 💻 Aspiring Software Development Engineer (SDE)  
-🚀 Passionate about scalable systems, backend engineering, and applied AI  
-
-## 🧠 About Me
-
-- Strong foundation in **Data Structures & Algorithms (500+ problems solved)**
-- Experience in **Backend Development, Machine Learning & System Design**
-- Contributor at **GirlScript Summer of Code (GSSoC 2024)**
-- Actively preparing for **SDE roles & internships**
-- Interested in **AI systems + real-world scalable products**
-
-
-
-## 🧠 About Me
-
-- 🎓 B.Tech @ NIT Raipur (Mechanical Engineering)
-- 💻 Strong in **DSA (500+ problems)** + System Design
-- ⚙️ Building **backend-heavy + AI-powered systems**
-- 🧩 Contributor @ **GSSoC 2024**
-- 🏆 Runner-Up @ CodeUtsav 8.0 (ML Domain)
-- 📈 JEE Mains 96.41 percentile (Top 4%)
+🚀 Passionate about scalable systems, backend engineering, and applied AI
 
 ## 🛠️ Tech Stack
 
@@ -76,22 +57,8 @@
 - 📊 Worked on **60k+ image dataset (30GB)**  
 - 🏅 96.41 percentile in **JEE Mains (Top 4%)**  
 - 📜 Completed **AI/ML Program (Skolar, Dubai)**  
-- 🔥 Completed **100 Days of Code**  
-
-
-## 🌐 Connect With Me
-
-<p align="center">
-<a href="https://www.linkedin.com/in/aishwar-bhatnagar-5bbb30287/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-<a href="mailto:abhatnagar010.btech2023@me.nitrr.ac.in">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
-</a>
-<a href="https://github.com/Aishwar1">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-</p>
+- 🔥 Completed **100 Days of Code**
+- 🧩 Contributor at **GirlScript Summer of Code (GSSoC 2024)**
 
 ## 📊 GitHub Stats
 
@@ -104,15 +71,8 @@
   <img src="https://streak-stats.demolab.com/?user=Aishwar1&theme=tokyonight" />
 </p>
 
-
 ## 🌐 Connect With Me
 
 - 🔗 LinkedIn: https://www.linkedin.com/in/aishwar-bhatnagar-5bbb30287/
 - 📧 Email: abhatnagar010.btech2023@me.nitrr.ac.in
 - 💻 GitHub: https://github.com/Aishwar1
-
----
-
-## ⚡ Fun Fact
-
-I enjoy building systems that **actually solve real-world problems** — not just projects for resume.
