@@ -4,6 +4,16 @@
 💻 Aspiring Software Development Engineer (SDE)  
 🚀 Passionate about scalable systems, backend engineering, and applied AI
 
+## 🏆 Achievements
+
+- 🥈 Runner-Up at **CodeUtsav 8.0 (ML Domain)** – 77.59% accuracy  
+- 💯 Solved **500+ DSA problems** (LeetCode, InterviewBit)  
+- 📊 Worked on **60k+ image dataset (30GB)**  
+- 🏅 96.41 percentile in **JEE Mains (Top 4%)**  
+- 📜 Completed **AI/ML Program (Skolar, Dubai)**  
+- 🔥 Completed **100 Days of Code**
+- 🧩 Contributor at **GirlScript Summer of Code (GSSoC 2024)**
+
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -40,25 +50,10 @@
 
 ---
 ## 📊 GitHub Analytics
-
-<p align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Aishwar1&show_icons=true&theme=tokyonight" /> -->
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aishwar1&layout=compact&theme=tokyonight" /> -->
-</p>
-
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Aishwar1&theme=tokyonight" />
 </p>
 
-## 🏆 Achievements
-
-- 🥈 Runner-Up at **CodeUtsav 8.0 (ML Domain)** – 77.59% accuracy  
-- 💯 Solved **500+ DSA problems** (LeetCode, InterviewBit)  
-- 📊 Worked on **60k+ image dataset (30GB)**  
-- 🏅 96.41 percentile in **JEE Mains (Top 4%)**  
-- 📜 Completed **AI/ML Program (Skolar, Dubai)**  
-- 🔥 Completed **100 Days of Code**
-- 🧩 Contributor at **GirlScript Summer of Code (GSSoC 2024)**
 
 ## 📊 GitHub Stats
 
