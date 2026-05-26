@@ -6,7 +6,7 @@
 ## 🏆 Achievements
 
 - 🥈 Runner-Up at **CodeUtsav 8.0 (ML Domain)** – 77.59% accuracy  
-- 💯 Solved **700+ DSA problems** (LeetCode, InterviewBit)  
+- 💯 Solved **700+ DSA problems** (LeetCode, CodeForces, InterviewBit)  
 - 📊 Worked on **60k+ image dataset (30GB)**  
 - 🏅 96.41 percentile in **JEE Mains (Top 4%)**  
 - 📜 Completed **AI/ML Program (Skolar, Dubai)**  
