@@ -1,6 +1,6 @@
 # Hi, I'm Aishwar Bhatnagar
 🎓 B.Tech Undergraduate at NIT Raipur  
-💻 Aspiring Software Development Engineer (SDE)  
+💻 Aspiring Software Development Engineer (SDE) and AI Developer
 🚀 Passionate about scalable systems, backend engineering, and applied AI
 
 ## 🏆 Achievements
