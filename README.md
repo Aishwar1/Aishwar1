@@ -13,7 +13,7 @@
 - 🔥 Completed **100 Days of Code**
 - 🧩 Contributor at **GirlScript Summer of Code (GSSoC 2024)**
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack 
 
 <div align="center">
 
