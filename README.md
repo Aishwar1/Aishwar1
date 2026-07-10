@@ -62,96 +62,62 @@
 
 
 
+# Hi 👋 I'm Aishwar Bhatnagar
 
 <div align="center">
 
 ```text
-============*#********+++++===============
-============#####*###*###*+#*==========+++
-==========--#*+======-====+##=========++++
-=-----------#++++++++++++=++#-============
-------------===++**##******+*------=======
-------------=++##%%%%%##%%%#+--------=====
------------+##%@@@@@@%%%@%%%%+---------===
-=++==-----=*#%@@@@@@@@@%%%#*##*=---------=
-+##**+====*#%%@@%#++==-::=+*%@@+---==+=---
-*##***----#@@@@#+-:......::-#@@+--=++*=---
-*##*#***+=*@@@%+=--:..:..::-+#@+----------
-######%%#*+%@###%%%#*==+#####**----:------
-#***##%%#*+*#**##%##*-:+#%%#*+=-:--:::::--
-######%%#*+**=-====-=:.:----:-=-:--:::::::
-######@%*+=*#+=-:::==:.:-:.::-=-:--:::::::
-######%%*+=*%#+=--:+%#*#+:::-=--:--:::::::
-#####%@%*++*%%#++*##*+++***=+#-----:::::::
-#####%%##+*###%%###*+===+*#*%%-----:::::::
-#####%%%#+*#%##%@%##******#%%%=:----::::::
-#####%%##+*#%%##%%%%*++**%##%@=:----::::::
-#####%%##+#%######%%%%%%##*+%@=:----::::::
-####%%%%##%%*=+*#**#*****+--*%#+=-==::::::
-#%%%%%%%%%%%%*=-+*******=-:-#%%%%%###+==-:
-%%%%%%%%%%%##%%*+==+++=-::=#%####%%%%%%%##
-%%%%%%%%%%###%#%%##**+++*#%%#%#%##%%%#%%%%
-%%%%%%%%%%###%##%%%%%%%%%%%#%%#%%##%%#%%%%
-%%%%%%%%%####%%##%%%##%%%%%%%%#%%#%%%%%%%%
-%%%%%%%#%#####%%#%%%%#%%%#%%%%#%%##%%%%%%%
+@@@@@@@@@@@@@@@@@@@@@@@%******#@@@@@@@@@@@@%%@
+@@@@@@@@@@@@@@@@@@@@%*==++++-:-%@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@*=+#%@@@@#-:#@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@#:*@@%%%%%@*:*@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@%-=%@@@@@@@*:#@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@%*==*####+:=@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@%#*++++++%@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@%%%%%@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@%%@@%%%%%%%%%%%%%%%%@@@@@@@@@@@@@
+@@@@@@@@@@@@@%%%%%%%%%%%##%###%%%@@@@@@@@@@@@@
+@@@@@@@@@@@@@@%%%%@@%%%%%%%%%%%@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@%%%%%%%%%%%%%%%%@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@%%%%%%%%%%%%%%@@@@@@@@@@@@@@@@      aishwar@github
+      ------------------------------
+      OS: Windows 11
+      Host: NIT Raipur
+      Role: Software Development Engineer
 
-                    aishwar@github
-──────────────────────────────────────────────────────────────
+      Languages:
+      Python • C++ • JavaScript
+      TypeScript • SQL
 
-OS:             Windows 11 x64
-Host:           National Institute of Technology Raipur
-User:           Aishwar Bhatnagar
-Role:           Software Development Engineer
+      Backend:
+      Node.js • Express
+      REST APIs • JWT
 
-Education:      B.Tech Mechanical Engineering
-College:        NIT Raipur
-Location:       India
+      Frontend:
+      React • Next.js
+      TailwindCSS
 
-Languages:      Python • C++ • JavaScript
-                TypeScript • SQL
+      Database:
+      MongoDB • MySQL
 
-Frontend:       React.js
-                Next.js
-                Tailwind CSS
+      Cloud:
+      AWS • Docker
 
-Backend:        Node.js
-                Express.js
-                REST APIs
-                JWT
+      AI/ML:
+      TensorFlow • PyTorch
+      Scikit-Learn • NLP • CNN
 
-Database:       MongoDB
-                MySQL
+      Achievements:
+      • 700+ DSA Problems
+      • Runner-Up CodeUtsav 8.0
+      • 60K+ Image Dataset
+      • 96.41%ile JEE Mains
+      • GSSoC 2024
 
-Cloud:          AWS
-                Docker
-                GitHub Actions
-
-AI / ML:        TensorFlow
-                PyTorch
-                Scikit-Learn
-                CNN
-                NLP
-
-Achievements:
-                🥈 Runner-Up CodeUtsav 8.0
-                💯 700+ DSA Problems
-                📊 60K+ Images (30GB)
-                🏅 96.41%ile JEE Mains
-                🔥 100 Days of Code
-                🌍 GSSoC 2024 Contributor
-
-Projects:
-                • MERN Hotel Booking
-                • CNN Feature Visualization
-                • NLP Search Prediction
-                • Pizza Sales Dashboard
-                • BigMart Sales Prediction
-
-GitHub:         github.com/Aishwar1
-LinkedIn:       linkedin.com/in/aishwar-bhatnagar-5bbb30287
-Email:          abhatnagar010.btech2023@me.nitrr.ac.in
-
-Status:         🚀 Building. Learning. Shipping.
+      GitHub: github.com/Aishwar1
+      LinkedIn:
+      linkedin.com/in/aishwar-bhatnagar-5bbb30287
 ```
 
 </div>
+
