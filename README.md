@@ -58,3 +58,152 @@
 - 🔗 LinkedIn: https://www.linkedin.com/in/aishwar-bhatnagar-5bbb30287/
 - 📧 Email: abhatnagar010.btech2023@me.nitrr.ac.in
 - 💻 GitHub: https://github.com/Aishwar1
+
+
+
+
+
+
+<div align="center">
+
+```text
+
+                         ███████████████████
+                     █████████████████████████
+                  ████████            █████████
+                ██████                  ███████
+              █████                       ██████
+             █████                         ██████
+            █████        A I S H W A R      █████
+            █████                           █████
+            █████                           █████
+             █████                         █████
+              ██████                     ██████
+                ███████               ███████
+                  █████████████████████████
+                     ███████████████████
+
+
+aishwar@github
+──────────────────────────────────────────────────────────────
+
+OS:              Windows 11 x64
+Host:            National Institute of Technology Raipur
+Kernel:          Software Development Engineer
+Shell:           Backend • AI/ML • System Design
+
+Education:       B.Tech Mechanical Engineering
+College:         NIT Raipur
+Location:        India
+
+Languages:       Python, C++, JavaScript,
+                 TypeScript, SQL
+
+Frontend:        React.js
+                 Next.js
+                 TailwindCSS
+
+Backend:         Node.js
+                 Express.js
+                 REST APIs
+                 JWT Authentication
+
+Databases:       MongoDB
+                 MySQL
+
+Cloud:           AWS
+                 Docker
+                 Git
+                 GitHub Actions
+
+Machine Learning:
+                 TensorFlow
+                 PyTorch
+                 Scikit-Learn
+                 CNN
+                 NLP
+
+Achievements:
+                 🥈 Runner-Up CodeUtsav 8.0
+                 💯 700+ DSA Problems
+                 📊 60K+ Image Dataset
+                 🏅 96.41%ile JEE Mains
+                 📜 AI/ML Program (Skolar)
+                 🔥 100 Days of Code
+                 🌍 GSSoC 2024 Contributor
+
+Projects:
+                 • MERN Hotel Booking
+                 • CNN Feature Visualization
+                 • NLP Search Prediction
+                 • Pizza Sales Dashboard
+                 • BigMart Sales Prediction
+
+GitHub:          github.com/Aishwar1
+LinkedIn:        linkedin.com/in/aishwar-bhatnagar-5bbb30287
+Email:           abhatnagar010.btech2023@me.nitrr.ac.in
+
+Repos:           40+
+Languages Used:  Python • C++ • JavaScript
+Focus:           Backend Engineering
+Status:          Always Building 🚀
+
+```
+
+</div>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Aishwar1&show_icons=true&theme=tokyonight"/>
+
+<img width="48%" src="https://streak-stats.demolab.com?user=Aishwar1&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aishwar1&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,cpp,js,ts,nodejs,express,react,nextjs,tailwind,mongodb,mysql,docker,aws,git,tensorflow,pytorch"/>
+
+</p>
+
+---
+
+## 🌐 Connect
+
+<p align="center">
+
+<a href="https://github.com/Aishwar1">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/aishwar-bhatnagar-5bbb30287/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:abhatnagar010.btech2023@me.nitrr.ac.in">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+![](https://komarev.com/ghpvc/?username=Aishwar1&style=for-the-badge)
+
+</p>
